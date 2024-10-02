@@ -1,0 +1,7 @@
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\bin\Debug\PracticalGit.exe.config
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\bin\Debug\PracticalGit.exe
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\bin\Debug\PracticalGit.pdb
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\obj\Debug\PracticalGit.csproj.AssemblyReference.cache
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\obj\Debug\PracticalGit.csproj.CoreCompileInputs.cache
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\obj\Debug\PracticalGit.exe
+F:\Проекты  Visual Studio\PracticalGit\PracticalGit\obj\Debug\PracticalGit.pdb
